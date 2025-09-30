@@ -1,1 +1,2 @@
 # ML-Fundamentals-Practice
+The goal of this repository is for me to practice ML concepts. Things will not be optimally setup and will need refactoring, but these are things I'm aware of and will be working on improving as I build out this repo. 
